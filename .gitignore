@@ -1,0 +1,40 @@
+# IntelliJ IDEA / Android Studio
+
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Gradle
+
+.gradle/
+**/build/
+
+# Kotlin
+
+.kotlin/
+
+# Local environment
+
+local.properties
+
+# macOS
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+
+Thumbs.db
+Desktop.ini
+
+# Logs
+
+*.log
+
+# Temporary files
+
+*.tmp
+*.temp
+*~
