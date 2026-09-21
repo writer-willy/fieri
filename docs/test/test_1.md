@@ -1,13 +1,13 @@
 ---
 layout: default
 title: "Test 1"
-permalink: /docs/test/test_1/
+permalink: /test/test_1/
 ---
 
 <!--
 주석
 -->
-![이미지](/docs/test/images/test_apple.png)
+![이미지]({{ '/test/images/test_apple.png' | relative_url }})
 # 큰 제목
 ## 중간 제목
 ### 작은 제목

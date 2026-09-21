@@ -1,0 +1,6 @@
+theme: jekyll-theme-minimal
+title: title
+description: description
+source: docs
+url: "https://writer-willy.github.io"
+baseurl: "/fieri"
